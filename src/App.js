@@ -6,9 +6,21 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Welcome to the home page of Demo React JS</h1>
-        <p>We are using Github and Travis CI to make a automation workflow</p>
-        <p>The Docker play an important role in the process.</p>
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
+          <h1>This page is added to test theo status of TravisCI</h1>
+          <p>Docker plays an important role in process</p>
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
     </div>
   );
