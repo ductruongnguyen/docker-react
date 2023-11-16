@@ -10,9 +10,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          <b>Here is the new line to test the volume</b>
-          <br/>
-          <b>Here is the new line to test the volume</b>
+          <h1>This page is added to test theo status of TravisCI</h1>
+          <p>Docker plays an important role in process</p>
         </p>
         <a
           className="App-link"
